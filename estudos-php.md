@@ -365,4 +365,3 @@ var_dump($_POST);
 
 ---
 
-Este arquivo contém um resumo completo para seus estudos de PHP. Boa sorte!
